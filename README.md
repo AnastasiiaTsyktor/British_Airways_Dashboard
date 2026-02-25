@@ -1,12 +1,15 @@
 # British Airways Customer Reviews Analysis
 
-👉  [Tableau Public Dashboard](https://public.tableau.com/app/profile/anastasia.tsyktor/viz/BritishAirwaysDashboard_17720308463710/Dashboard1)
 
 ## Executive Summary
 This project demonstrates end-to-end data analysis of airline customer feedback, from raw review data to actionable business decisions. Were analyzed British Airways passenger reviews enriched with geographic attributes and service metrics. 
 Using Tableau, I built an interactive dashboard to evaluate satisfaction drivers across aircraft, seat class, traveler type, region, and time. The analysis identifies key experience gaps and quantifies how different service dimensions influence overall ratings.
 
 Key findings show that cabin staff service is the strongest contributor to satisfaction, while entertainment and value for money underperform across segments. Ratings also vary by aircraft and geography, highlighting operational inconsistency.
+
+![Dashboard Screenshot](British_Airways_Dashboard.png)
+
+👉  [Tableau Public Dashboard](https://public.tableau.com/app/profile/anastasia.tsyktor/viz/BritishAirwaysDashboard_17720308463710/Dashboard1)
 
 The dashboard enables to monitor customer experience KPIs and segment performance without working with raw data.
 
@@ -25,7 +28,6 @@ Airlines operate in a highly competitive environment where customer experience d
 - Exploratory and statistical analysis
 - Data visualization (Tableau)
 - Business analytics
-
 
 ## Results 
 - Cabin staff service is the highest-rated dimension and closely aligned with overall rating.
