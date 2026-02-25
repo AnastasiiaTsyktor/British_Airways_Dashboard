@@ -52,9 +52,9 @@ Airlines operate in a highly competitive environment where customer experience d
 
 ### Tableau dashboard includes:
 
-Satisfaction KPIs
-Trends by month
-Map by country
-Aircraft comparison
-Filters by traveler type and seat class
+- Satisfaction KPIs
+- Trends by month
+- Map by country
+- Aircraft comparison
+- Filters by traveler type and seat class
 
