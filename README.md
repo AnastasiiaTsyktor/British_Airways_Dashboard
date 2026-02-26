@@ -50,11 +50,3 @@ Airlines operate in a highly competitive environment where customer experience d
 5. Monitor KPIs continuously
  Use review data as an ongoing service performance signal.
 
-### Tableau dashboard includes:
-
-- Satisfaction KPIs
-- Trends by month
-- Map by country
-- Aircraft comparison
-- Filters by traveler type and seat class
-
